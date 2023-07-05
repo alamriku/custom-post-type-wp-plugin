@@ -1,0 +1,15 @@
+button:not(:hover):not(:active):not(.has-background) {
+    /*background-color: transparent !important;*/
+}
+button:not(:hover):not(:active):not(.has-background) {
+
+}
+
+.bg-red {
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(254 226 226 / var(--tw-bg-opacity)) !important;
+}
+
+.button_custom_color {
+    color: #0c0c0c !important;
+}
